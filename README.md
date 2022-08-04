@@ -1,5 +1,6 @@
 # Individual Self-Assessment 
 Name: Sied Mohamed
+
 Group name: Dream Team
 ## Project Topic:  An analysis of the effect of school ranking and prime rate on the housing price in the Washington DC Metropolitan area.
 
